@@ -1,8 +1,8 @@
 # thesis-code-mediapipe
 Code for deploying MediaPipe using Python
 
-This repository contains the Python code used to analyze videos with MediaPipe. 
-The code was used in Master’s Thesis: A Systematic Comparison of Microsoft Azure Kinect and Open-Source Motion Capture Tools.
+- This repository contains the Python code used to analyze videos with MediaPipe. 
+- The code was used in Master’s Thesis: A Systematic Comparison of Microsoft Azure Kinect and Open-Source Motion Capture Tools.
 
 ## Files
 
